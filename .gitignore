@@ -1,3 +1,9 @@
+#Macos Files
+.DS_Store
+
+# so we don't push our config into git
+config.json
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
