@@ -12,4 +12,4 @@ If you're having trouble with access, ensure you've followed the steps [here](ht
 It's fairly simple to create the APP in strava's website, then use postman to create the refresh_token via the steps listed [here](https://developers.strava.com/docs/getting-started/#oauth)
 
 
-![Example Run](https://github.com/ajcollins0/runToDate/images/i1.png)
+![Example Run](https://github.com/ajcollins0/runToDate/blob/master/images/i1.png)
