@@ -13,7 +13,7 @@ import (
 )
 
 // VERSION - hard code version
-const VERSION = "0.1"
+const VERSION = "1.0"
 
 // Params - returns parameters needed to start program
 type Params struct {
